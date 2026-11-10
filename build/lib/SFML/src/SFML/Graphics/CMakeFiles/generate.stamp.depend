@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/Users/User/source/repos/lab_3/lib/SFML/cmake/Modules/FindFreetype.cmake
+C:/Users/User/source/repos/lab_3/lib/SFML/src/SFML/Graphics/CMakeLists.txt
+C:/Users/User/source/repos/lab_3/lib/SFML/tools/windows/resource.rc.in
